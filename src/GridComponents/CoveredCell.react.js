@@ -1,4 +1,4 @@
-import './css/CoveredCell.css';
+import './styles/CoveredCell.css';
 
 export default function CoveredCell() {
     return (

@@ -1,4 +1,4 @@
-import './css/GridCell.css';
+import './styles/GridCell.css';
 
 export default function GridCell() {
     return (

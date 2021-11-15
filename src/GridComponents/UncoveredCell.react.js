@@ -1,4 +1,4 @@
-import './css/UncoveredCell.css';
+import './styles/UncoveredCell.css';
 
 export default function UncoveredCell() {
     return (

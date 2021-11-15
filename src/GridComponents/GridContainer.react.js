@@ -1,4 +1,4 @@
-import './css/GridContainer.css';
+import './styles/GridContainer.css';
 
 export default function GridContainer() {
   return (
