@@ -1,7 +1,9 @@
+import './css/GridCell.css';
+
 export default function GridCell() {
     return (
-      <div className="GridContainer">
+      <div className="GridCell">
        
       </div>
     );
-  }
+}
