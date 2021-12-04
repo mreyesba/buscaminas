@@ -1,3 +1,7 @@
 .GridCell {
     text-align: center;
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    margin: 3px;
 }

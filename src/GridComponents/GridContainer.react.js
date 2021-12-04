@@ -1,11 +1,19 @@
 import './styles/GridContainer.css';
-import GridCell from './GridCell.react';
+import GridRow from './GridRow.react';
 
 export default function GridContainer() {
   return (
     <div className="GridContainer">
-      <GridCell covered={true} />
-      <GridCell covered={false} />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
+      <GridRow />
     </div>
   );
 }

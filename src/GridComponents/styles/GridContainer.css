@@ -1,6 +1,8 @@
 .GridContainer {
     text-align: center;
-    height: 400px;
-    width: 400px;
+    height: 260px;
+    width: 260px;
     background-color: gray;
+    flex-direction: column;
+    display: flex;
 }
